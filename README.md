@@ -42,12 +42,10 @@ Frontend developer with solid experience in creating attractive, accessible, and
 ## 🎓 Education
 
 * **Bootcamp Frontend Developer (React)** – IT Academy, Barcelona Activa (2025)
-  Final Project: [TripTailor AI](https://triptailor-ai.vercel.app)
 
 * **Course: PHP and MySQL** – CODE OP, Barcelona (2025)
 
 * **Bootcamp Frontend Developer (Vue.js)** – CODE OP, Barcelona (2024)
-  Final Project: [FemShop](https://femshop.vercel.app)
 
 ---
 
