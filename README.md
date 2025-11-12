@@ -1,4 +1,4 @@
-# Hi, I'm Cristiana Sollini
+# Cristiana Sollini
 
 **Frontend Developer | Building creative and accessible web experiences**
 
