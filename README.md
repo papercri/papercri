@@ -33,9 +33,9 @@ Frontend developer with solid experience in creating attractive, accessible, and
 
 ## 🚀 Projects
 
-* **[Prompt Composer AI](https://prompt-composer-ai.vercel.app/)** – Create, organize, and refine AI prompts for multiple use cases.
 * **[TripTailor AI](https://triptailor-ai.vercel.app/)** – Travel planner powered by OpenAI that generates custom itineraries.
 * **[FemShop](https://femshop.vercel.app/)** – E-commerce project built with Vue.js and Firebase.
+* **[Prompt Composer AI](https://prompt-composer-ai.vercel.app/)** – Create, organize, and refine AI prompts for multiple use cases.
 
 ---
 
