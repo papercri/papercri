@@ -4,7 +4,7 @@
 
 Frontend developer with solid experience in creating attractive, accessible, and user-centered interfaces for digital platforms. Passionate about crafting clean, responsive, and SEO-friendly frontends with attention to detail and usability. Experienced in leveraging AI tools to optimize development workflows and integrating dynamic OpenAI prompts into projects.
 
-*[Web Portfolio](https://triptailor-ai.vercel.app/)* 
+*[Web Portfolio](https://cris-web-portfolio.vercel.app/)* 
 ---
 
 
